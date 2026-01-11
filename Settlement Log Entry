@@ -1,0 +1,14 @@
+# Settlement Log Entry
+
+**Entry ID:**  
+**Settlement Type:** (ISSUANCE / REDEMPTION / TRANSFER / TREASURY / OTHER)  
+**EVM Proposal ID:**  
+**EVM Tx Hash:**  
+**XRPL Tx Hash:**  
+**XRPL Issuer:**  
+**XRPL Asset Code:**  
+**Amount:**  
+**Counterparty:**  
+**Policy Reference URI:**  
+**Timestamp (UTC):**  
+**Notes:**  
